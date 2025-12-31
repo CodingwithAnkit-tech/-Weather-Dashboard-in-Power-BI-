@@ -20,7 +20,7 @@
 
 Weather & Air Quality data is fetched via OpenWeather API (or other chosen weather API).
 
-✨ Feature Highlights
+# ✨ Feature Highlights
 
 ✅ Real-time weather conditions (temperature, humidity, wind speed, visibility, etc.)
 ✅ 7-day weather forecast with trend visualization
