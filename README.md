@@ -10,6 +10,7 @@
 - A data-driven Power BI dashboard that visualizes temperature, humidity, wind speed, UV index, air quality (PM2.5, PM10, CO, NO2, SO2, O3), and rain probability with clear and actionable insights.
 
 
+
 🛠 Tech Stack
 
 -  Power BI – Dashboard & Data Visualization
