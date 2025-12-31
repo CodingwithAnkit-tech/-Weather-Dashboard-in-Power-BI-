@@ -30,4 +30,4 @@ Weather & Air Quality data is fetched via OpenWeather API (or other chosen weath
 ✅ Interactive city selection (Delhi, Gangtok, Indore, etc.)
 ✅ Clean, modern, and user-friendly UI for quick insights
 
-📸 Screenshot----https://github.com/CodingwithAnkit-tech/-Weather-Dashboard-in-Power-BI-/blob/main/Weather%20%26%20Air%20Quality%20Dashboard.png
+# 📸 Screenshot----https://github.com/CodingwithAnkit-tech/-Weather-Dashboard-in-Power-BI-/blob/main/Weather%20%26%20Air%20Quality%20Dashboard.png
