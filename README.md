@@ -18,7 +18,6 @@
 
 # 🌐 Data Source
 
-
 Weather & Air Quality data is fetched via OpenWeather API (or other chosen weather API).
 
 ✨ Feature Highlights
