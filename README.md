@@ -21,7 +21,6 @@
 
 Weather & Air Quality data is fetched via OpenWeather API (or other chosen weather API).
 
-
 # ✨ Feature Highlights
 
 ✅ Real-time weather conditions (temperature, humidity, wind speed, visibility, etc.)
