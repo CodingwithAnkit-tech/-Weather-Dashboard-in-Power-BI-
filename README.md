@@ -17,6 +17,7 @@
 - DAX & Power Query – Data modeling & transformations
 - Data Analytics – For forecast & trend analysis
 
+
 # 🌐 Data Source
 
 Weather & Air Quality data is fetched via OpenWeather API (or other chosen weather API).
