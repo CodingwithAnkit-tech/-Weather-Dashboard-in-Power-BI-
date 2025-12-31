@@ -4,7 +4,6 @@
 # 📌 About
 
 
-
 - This project is an interactive Weather & Air Quality Dashboard built using Power BI and integrated with a Weather API. It provides real-time weather updates, forecasts, air quality metrics, and environmental insights in a visually engaging way.
 
 📝 Short Description
