@@ -13,8 +13,7 @@ A data-driven Power BI dashboard that visualizes temperature, humidity, wind spe
 -  Power BI – Dashboard & Data Visualization
 - Weather API – Real-time data source
 - DAX & Power Query – Data modeling & transformations
-
-Data Analytics – For forecast & trend analysis
+- Data Analytics – For forecast & trend analysis
 
 🌐 Data Source
 
