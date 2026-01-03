@@ -12,7 +12,7 @@
 
 # 🛠 Tech Stack
 
-- Power BI – Dashboard & Data Visualization
+- Power BI – Dashboard & Data Visualization 
 - Weather API – Real-time data source
 - DAX & Power Query – Data modeling & transformations
 - Data Analytics – For forecast & trend analysis
